@@ -5,6 +5,9 @@ import java.util.Collections;
 import java.util.Date;
 import java.lang.Thread;
 
+class B
+{
+}
 
 class A
 {
